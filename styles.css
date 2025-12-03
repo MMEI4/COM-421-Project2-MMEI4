@@ -1,0 +1,103 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 810px;
+    margin: 100px;
+    background-color: #fffcf5;
+    line-height: 1.15;
+}
+
+
+
+li, p, h4 {
+    font-size: 1.1em;
+}
+
+li.doc {
+    font-weight: bold;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+.dark_blue {
+    color: darkblue;
+    font-size :2em;
+    font-weight: bold;
+}
+
+.pop_word {
+    color: darkblue;
+    font-size :1.5em;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+
+.red{
+    color:red;
+    text-align: center;
+    font-size :1.2em;
+}
+
+.sidebar {
+    margin: 30px;
+    font-weight: bold;
+}
+
+.header1 {
+   height: 100%;
+   width: 100%;
+   border: 1px solid black;
+}
+
+.nonprofit_org {
+    text-align: right;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: gray
+}
+
+iframe{
+    border: 1px solid black;
+}
+
+.iframe1 {
+    width: 586px;
+    height: 362px; 
+}
+
+.iframe2 {
+    width: 652px;
+    height: 368px; 
+}
+
+
+figure{
+    display: block;      
+    margin: 0 auto;  
+    text-align: center;
+}
+
+.img1{
+    width: 800px;
+    height: auto;
+    border: 1px solid black;
+}
+
+h1 {
+    font-size :3em;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 2em
+}
+
+h3{
+    font-size: 1.5em
+}
+
+h1, h2, h3, h4 {
+    color: rgb(69, 123, 194);
+    font-weight: 700;
+}
