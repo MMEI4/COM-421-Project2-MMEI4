@@ -57,6 +57,13 @@ ol li {
     color: gray
 }
 
+.link{
+    font-size: 0.9em;
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 iframe{
     border: 1px solid black;
 }
@@ -95,6 +102,10 @@ h2 {
 
 h3{
     font-size: 1.5em
+}
+
+h4{
+    margin-bottom: 0;
 }
 
 h1, h2, h3, h4 {
